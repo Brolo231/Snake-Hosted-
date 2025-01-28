@@ -5,8 +5,7 @@ This is a classic Snake game built with **Pygame** and packaged for the web usin
 ## 🚀 Play the Game
 
 Click the link below to play the game:
-[Play Snake Game](https://brolo231.github.io/snake)
-<a href="https://brolo231.github.io/snake" traget="_blank">Play Snake Game</a>
+[Play Snake Game](https://brolo231.github.io/snake) !!Right click to open in new tab!!
 
 ## 🎮 How to Play
 
